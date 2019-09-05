@@ -1,0 +1,14 @@
+{
+  "name": "13.note-app-with-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haythem",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^14.0.0"
+  }
+}
